@@ -6,6 +6,4 @@ dependencies:
   - matplotlib
   - pandas
   - ipywidgets
-  - traitlets
   - bqplot
-  - seaborn
